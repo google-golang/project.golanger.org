@@ -1,12 +1,9 @@
 <p align="center">
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://golanger.org/logo/Golang-logo.svg" width="555">
+<img src="https://golanger.org/logo/Golang-logo.svg" width="555">
 </p>
 
-<p style="padding-top: 1px; text-align: center;">
-  <span style="color:black; font-weight: 150; font-size: 25px; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-    Let's <strong style="color:red;">Go</strong> To Create, Design, Code, Build For Everyone !
-  </span>
-</p>
+![tests](https://github.com/google-golang/project.golanger.org/workflows/tests/badge.svg)
+
 
 # Intro
 ✨ Display all project informations of [`google-golang organization`](https://github.com/google-golang) by the stunning presentation on the web created by [`reveal.js`](https://revealjs.com/)
