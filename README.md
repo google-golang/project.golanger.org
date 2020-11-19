@@ -1,10 +1,11 @@
 <p align="center">
 <img src="https://golanger.org/logo/Golang-logo.svg" width="555">
-</p>
-
-![tests](https://github.com/google-golang/project.golanger.org/workflows/tests/badge.svg)
+ 
+<img src="https://github.com/google-golang/project.golanger.org/workflows/tests/badge.svg"></img>
 <img src="https://img.shields.io/github/commit-activity/m/google-golang/project.golanger.org?color=ff69b4"></img>
 <img src="https://img.shields.io/github/repo-size/google-golang/project.golanger.org"></img>
+<img src="https://img.shields.io/github/license/google-golang/project.golanger.org.svg"></img>
+</p>
 
 
 # Intro
