@@ -3,8 +3,8 @@
 </p>
 
 ![tests](https://github.com/google-golang/project.golanger.org/workflows/tests/badge.svg)
-<img src="https://img.shields.io/github/commit-activity/m/YUbuntu0109/leetcode-googtech?color=ff69b4"></img>
-<img src="https://img.shields.io/github/repo-size/YUbuntu0109/leetcode-googtech"></img>
+<img src="https://img.shields.io/github/commit-activity/m/google-golang/project.golanger.org?color=ff69b4"></img>
+<img src="https://img.shields.io/github/repo-size/google-golang/project.golanger.org"></img>
 
 
 # Intro
